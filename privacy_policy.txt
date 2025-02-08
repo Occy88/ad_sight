@@ -1,0 +1,11 @@
+Privacy Policy
+
+Effective Date: 08/02/2025
+
+Ad Sight is an open source Chrome extension that does not collect, store, or transmit any personal data. All processing occurs locally within your browser, and the extension does not connect to any external servers.
+
+No tracking, analytics, or data sharing is performed.
+
+Any changes to this policy will be updated here.
+
+For questions, contact: [your email address]
