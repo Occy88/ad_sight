@@ -1,0 +1,18 @@
+{
+  "name": "Ad Sight",
+  "manifest_version": 2,
+  "version": "1.1",
+  "description": "AdSight alerts you when your visit is ad-driven. Enjoy a more transparent browsing experience and optinoally clear the reference.",
+  "manifest_version": 3,
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content-script.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "48": "advertisement.png"
+  }
+}
